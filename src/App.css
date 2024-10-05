@@ -1,0 +1,14 @@
+
+input {
+  width: 100%;
+}
+
+
+.custom-row{
+  margin: 10px 5px;
+  text-align: left;
+}
+
+.custom-button{
+  min-width: 80px;
+}
